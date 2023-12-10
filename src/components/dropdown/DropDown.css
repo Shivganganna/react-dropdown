@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    height: 100%;
+    width: 100%;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dropdown{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;   
+
+}
+
+.dropdown-select{
+    width: 200px;
+    height:40px;
+    border: solid 2px black;
+    border-radius: 5px;
+    background-color: gray;
+}
